@@ -1,0 +1,16 @@
+C:\Users\rohit\OneDrive\Bureaublad\.NET\NumberGuessing\NumberGuessing\bin\Debug\net5.0\NumberGuessing.exe
+C:\Users\rohit\OneDrive\Bureaublad\.NET\NumberGuessing\NumberGuessing\bin\Debug\net5.0\NumberGuessing.deps.json
+C:\Users\rohit\OneDrive\Bureaublad\.NET\NumberGuessing\NumberGuessing\bin\Debug\net5.0\NumberGuessing.runtimeconfig.json
+C:\Users\rohit\OneDrive\Bureaublad\.NET\NumberGuessing\NumberGuessing\bin\Debug\net5.0\NumberGuessing.runtimeconfig.dev.json
+C:\Users\rohit\OneDrive\Bureaublad\.NET\NumberGuessing\NumberGuessing\bin\Debug\net5.0\NumberGuessing.dll
+C:\Users\rohit\OneDrive\Bureaublad\.NET\NumberGuessing\NumberGuessing\bin\Debug\net5.0\NumberGuessing.pdb
+C:\Users\rohit\OneDrive\Bureaublad\.NET\NumberGuessing\NumberGuessing\obj\Debug\net5.0\NumberGuessing.csproj.AssemblyReference.cache
+C:\Users\rohit\OneDrive\Bureaublad\.NET\NumberGuessing\NumberGuessing\obj\Debug\net5.0\NumberGuessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit\OneDrive\Bureaublad\.NET\NumberGuessing\NumberGuessing\obj\Debug\net5.0\NumberGuessing.AssemblyInfoInputs.cache
+C:\Users\rohit\OneDrive\Bureaublad\.NET\NumberGuessing\NumberGuessing\obj\Debug\net5.0\NumberGuessing.AssemblyInfo.cs
+C:\Users\rohit\OneDrive\Bureaublad\.NET\NumberGuessing\NumberGuessing\obj\Debug\net5.0\NumberGuessing.csproj.CoreCompileInputs.cache
+C:\Users\rohit\OneDrive\Bureaublad\.NET\NumberGuessing\NumberGuessing\obj\Debug\net5.0\NumberGuessing.dll
+C:\Users\rohit\OneDrive\Bureaublad\.NET\NumberGuessing\NumberGuessing\obj\Debug\net5.0\refint\NumberGuessing.dll
+C:\Users\rohit\OneDrive\Bureaublad\.NET\NumberGuessing\NumberGuessing\obj\Debug\net5.0\NumberGuessing.pdb
+C:\Users\rohit\OneDrive\Bureaublad\.NET\NumberGuessing\NumberGuessing\obj\Debug\net5.0\NumberGuessing.genruntimeconfig.cache
+C:\Users\rohit\OneDrive\Bureaublad\.NET\NumberGuessing\NumberGuessing\obj\Debug\net5.0\ref\NumberGuessing.dll

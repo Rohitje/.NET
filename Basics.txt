@@ -1,0 +1,28 @@
+DEPENDENCY INJECTION (DI):
+👉 Is een container die je kan verspreiden over meerdere webpagina's om een betere overzicht te hebben tegenover vroeger toen men werkte met classes.
+    Bv. een mailbox verbonden met een database
+
+👉 Kan je makkelijker updaten dat men meteen toepast op de pagina's dat afhankelijk is van de container.
+
+.NET CORE PIPELINE:
+👉 Request from browser
+👉 Pipeline is made of middlewares (MVC, Auth, Session, Static...)
+    👉 Order is important when it comes to middleware.
+
+MVC:
+ROUTING in MVC
+👉 The URL pattern for routing is considered after the domain name.
+    👉 https://localhost:5555/{controller}/action/{id}
+        👉 https://localhost:5555/Category/Index/3
+
+Model:
+- represents the shape of the data.
+- Gives data to Controller.
+View:
+- represents the user interface (css, js).
+- gives view to Controller.
+Controller:
+- is always the main entry point of the MVC framework when it interacts with an user.
+- handles the user request and acts as interface between Model and View.
+- gets data from Model and sends it to View.
+- gets view from View and sends it to Model.

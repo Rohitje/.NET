@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8771bb0-42a5-419a-9a3d-abce241c130c": {
+      "ProjectGuid": "a8771bb0-42a5-419a-9a3d-abce241c130c",
+      "DisplayName": "Rocky",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

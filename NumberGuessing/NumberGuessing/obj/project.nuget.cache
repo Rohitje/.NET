@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fYzgypF9WYXtWgCUm3ixv53IZfpZRd/YED/qrB7rarTET8aNb4gm9Olcu63+XtYOP694xAW1NxhpuL6eKTjwZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rohit\\OneDrive\\Bureaublad\\.NET\\NumberGuessing\\NumberGuessing\\NumberGuessing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rohit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
